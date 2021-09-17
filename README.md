@@ -1,8 +1,6 @@
-<h1 style="color: purple"> Ay! I'm Mun!
-  <h3> Indie Game-Developer </h3>
-  </br>
- <h3> He/Him </h3>
- </br>
- <h3> <link src="https://web.roblox.com/users/1303772257/profile" ROBLOX Profile >    Won't add you btw.
-  </br>
- <h3>  Discord: Mun#5691, basically only way to contact me
+<center> 
+  | Experienced Lua Scripter |
+  <h3> I also know some JS, H-T-M-L and Python, </h3>
+  <h3> About me: Horror-Addict, pretty creative, </h3>
+  <h3> Wanna talk? Mun#5691 (Discord) </h3>
+  <h3> Status: Not For Hire. </h3> </center>
