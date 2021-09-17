@@ -1,19 +1,12 @@
-Ay!
+<h1 style="color: purple"> Ay! I'm Mun!
 
-Indie Game-Developer
-
-</br>
-
-I'm Mun, young programmer
-
-</br>
-
-he/him
-
-</br>
-
-Know 6 Programming Languages
-
-</br>
-
-Big Horror Addict
+<html>
+  <head>
+  </head>
+  <body>
+    
+    Indie Game-Developer
+    </br>
+    
+  </body>
+</html>
